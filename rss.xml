@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Renal]]></title>
         <description><![CDATA[Renal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/renal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 14:42:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 15:01:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/renal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbacd699-f5ed-4f7f-9ff4-115ace9578ef.png">]]></description>
+            <link>https://thegrid.ai/renal/421fb646-a218-4caf-ba20-95aef57db36b/index.html</link>
+            <guid isPermaLink="false">421fb646-a218-4caf-ba20-95aef57db36b</guid>
+            <pubDate>Tue, 12 Apr 2016 15:01:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdfa0256-2a24-4fab-acf6-f86ec306fb14.png">]]></description>
-            <link>undefinedf7a77966-973e-44cf-bb58-3700ed9049ec/index.html</link>
+            <link>https://thegrid.ai/renal/f7a77966-973e-44cf-bb58-3700ed9049ec/index.html</link>
             <guid isPermaLink="false">f7a77966-973e-44cf-bb58-3700ed9049ec</guid>
             <pubDate>Tue, 12 Apr 2016 14:41:47 GMT</pubDate>
         </item>
